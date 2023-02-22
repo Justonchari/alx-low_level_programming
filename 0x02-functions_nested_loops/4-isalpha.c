@@ -1,11 +1,12 @@
 #include "main.h"
+
 /**
- * int _isalpha - function checks for alpahbets
+ * _isalpha - functions checks for alphabets
  *
- * @c: parameter to be checked
+ * @c: parameters to be checked
  *
- *return: 1 if it is an alphabet
- *and 0 otherwise
+ * Return: 1 if it is an alphabet
+ * and 0 otherwise
  */
 
 int _isalpha(int c)
