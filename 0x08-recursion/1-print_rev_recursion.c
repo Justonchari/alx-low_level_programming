@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * _print_rev_recursion - function that prints a string in reverse
@@ -13,7 +13,6 @@ void _print_rev_recursion(char *s)
 	{
 		return;
 	}
-
 	s++;
 	_print_rev_recursion(s);
 	s--;
