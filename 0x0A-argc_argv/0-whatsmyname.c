@@ -3,7 +3,7 @@
 
 /**
  * main - main function
- * @argc: argument count 
+ * @argc: argument count
  * @argv: array
  * Return: 0
  */
