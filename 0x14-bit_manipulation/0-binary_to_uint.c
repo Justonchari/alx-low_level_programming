@@ -3,9 +3,7 @@
 /**
  * binary_to_uint - function that converts a binary number
  * to an unsigned int
- *
  * @b: string containing the binary number
- *
  * Return: converted number
  */
 
